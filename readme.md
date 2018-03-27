@@ -1,6 +1,7 @@
-## E-COMMERCE
+# E-COMMERCE
 Está App de e-commerce de poleras está realizada con el fin de satisfacer y agilizar la compra del cliente por internet.-
 
+![image](https://user-images.githubusercontent.com/32306592/37990932-107a5242-31de-11e8-9d21-b7d7d4a522c6.png)
 
 
 ## Caracteristicas tecnicas del Desarrollo web son las siguientes:
