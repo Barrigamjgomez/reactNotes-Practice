@@ -1,5 +1,6 @@
 # E-COMMERCE
 Está App de e-commerce de poleras está realizada con el fin de satisfacer y agilizar la compra del cliente por internet.-
+Compra tu polera favorita y dejanos tu comentario! Aplicación web , creada con Reactjs y Firebase database .
 
 ![image](https://user-images.githubusercontent.com/32306592/37990932-107a5242-31de-11e8-9d21-b7d7d4a522c6.png)
 
